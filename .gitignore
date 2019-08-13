@@ -1,0 +1,6 @@
+.settings/
+.project
+deployment.properties
+deployment.xml
+.svn
+.idea

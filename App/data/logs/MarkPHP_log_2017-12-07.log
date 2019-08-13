@@ -1,0 +1,9 @@
+2017-12-07 10:23:32 [ERROR] : [error_code]:2 [msg]:mysqli_connect(): (HY000/2002): ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+
+2017-12-07 10:23:32 [ERROR] : [2017-12-07 10:23:32]msg:mysqli connect error;file:E:\phpStudy\WWW\markphp\mark-framework\markphp.php;line:281;code:throw new MarkException($msg, $code);
+2017-12-07 11:44:53 [ERROR] : [error_code]:2 [msg]:mysqli_connect(): (HY000/2002): ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+
+2017-12-07 11:44:53 [ERROR] : [2017-12-07 11:44:53]msg:mysqli connect error;file:E:\phpStudy\WWW\markphp\mark-framework\markphp.php;line:279;code:throw new MarkException($msg, $code);
+2017-12-07 11:45:14 [ERROR] : [error_code]:2 [msg]:mysqli_connect(): (HY000/2002): ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+
+2017-12-07 11:45:15 [ERROR] : [2017-12-07 11:45:15]msg:mysqli connect error;file:E:\phpStudy\WWW\markphp\mark-framework\markphp.php;line:279;code:throw new MarkException($msg, $code);
